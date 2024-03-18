@@ -1,2 +1,5 @@
-# ESP32-CC1101-EW
-ESP32 module for electronic warfare based on CC1101 chip
+# ESP32 Cyber Warfare Toolkit
+
+## Overview
+
+This repository contains code for using the ESP32 and CC1101 chips in cyber and electronic warfare experiments, focusing on Wi-Fi, Bluetooth, and sub-GHz communications.
